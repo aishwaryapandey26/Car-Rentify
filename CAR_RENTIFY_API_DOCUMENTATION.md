@@ -5,7 +5,7 @@ platform, which includes functionalities such as car browsing, booking, managing
 interacting with car details. The API has been designed to ensure simplicity, scalability, and security,
 catering to both customer and admin needs. By employing JWT (JSON Web Token) authentication,
 the platform ensures secure API calls. Each endpoint is meticulously crafted to perform specific
-operations and is ess...
+operations 
 ## Base URL
 ```
 http://localhost:8080/api
